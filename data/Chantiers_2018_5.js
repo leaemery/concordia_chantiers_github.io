@@ -1,0 +1,21 @@
+var json_Chantiers_2018_5 = {
+"type": "FeatureCollection",
+"name": "Chantiers_2018_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Avricourt", "CP": "60310", "statut": "commune", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.862205984152129, 49.656002557852858 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Betz", "CP": "60620", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.953929595242602, 49.157536209851315 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Crecy en ponthieu", "CP": "80150", "statut": "commune", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 1.882759084181205, 50.253152879292173 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Pas de Calais", "Lieux chan": "Hallines", "CP": "62570", "statut": "commune", "theme": "Cadre de vie \/ Environnement", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.211906391453113, 50.709165553411509 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Ham", "CP": "80400", "statut": "association", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 3.07217301325489, 49.744378654281284 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Machemont", "CP": "60150", "statut": "association", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.872940439964162, 49.497266294364998 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Nogent Sur Oise", "CP": "60180", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.466821112969822, 49.275683772343882 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Picquigny", "CP": "80310", "statut": "commune", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.148565953477619, 49.943396455692103 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Plailly", "CP": "60128", "statut": "commune", "theme": "Patrimoine", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.583307843650015, 49.103755064643032 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Saint Maximin", "CP": "60740", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.44279859762301, 49.222543617183881 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Aisne", "Lieux chan": "Sissonne", "CP": "2150", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 3.891381355312024, 49.572409496954855 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Thiers sur Theve", "CP": "60520", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 2.570152826455703, 49.152249706459521 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Tracy le Mont", "CP": "60170", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 3.01015963996298, 49.472628259595645 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Nord", "Lieux chan": "Wallers", "CP": "59135", "statut": "commune", "theme": "Cadre de vie", "Annee": "2018" }, "geometry": { "type": "Point", "coordinates": [ 3.392961295207815, 50.38344903110923 ] } }
+]
+}

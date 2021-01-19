@@ -1,0 +1,22 @@
+var json_Chantiers_2008_15 = {
+"type": "FeatureCollection",
+"name": "Chantiers_2008_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Aisne", "Lieux chan": "Aubenton", "CP": "2500", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 4.203821849628784, 49.840622400790416 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Avricourt", "CP": "60310", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.862205984152129, 49.656002557852858 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Pas  de Calais", "Lieux chan": "Bapaume", "CP": "62450", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.862205984152129, 49.656002557852858 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Aisne", "Lieux chan": "Beaurevoir", "CP": "2110", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 3.307530055332665, 49.997463710891367 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Cardonnette", "CP": "80260", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.358072199510729, 49.951247536562541 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Aisne", "Lieux chan": "La Flamengrie", "CP": "2260", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 3.921463716185121, 50.005400834359058 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Laigneville", "CP": "60290", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.4436694994789, 49.293844602219011 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Nord", "Lieux chan": "Leffrinckoucke", "CP": "59495", "statut": "association", "theme": "Environnement", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.438224197712235, 51.051109512911431 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Montataire", "CP": "60762", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.434156170641007, 49.256428335717835 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Montjavoult", "CP": "60240", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 1.782358751065073, 49.214977354236396 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Parc du Marquenterre", "CP": "80142", "statut": "syndicat", "theme": "Environnement", "Annee": "2008" }, "geometry": null },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Somme", "Lieux chan": "Picquigny", "CP": "80310", "statut": "communaute de communes", "theme": "Environnement", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.148565953477619, 49.943396455692103 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Aisne", "Lieux chan": "Rozoy sur Serre", "CP": "2362", "statut": "commune", "theme": "Patrimoine", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 4.128976979925022, 49.710035399052622 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Oise", "Lieux chan": "Saint Maximin", "CP": "60740", "statut": "commune", "theme": "Cadre de vie", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 2.44279859762301, 49.222543617183881 ] } },
+{ "type": "Feature", "properties": { "Regions": "Hauts de France", "Departemen": "Pas de Calais", "Lieux chan": "Wimereux", "CP": "62930", "statut": "association", "theme": "Cadre de vie", "Annee": "2008" }, "geometry": { "type": "Point", "coordinates": [ 1.607362378649332, 50.770878620065346 ] } }
+]
+}
